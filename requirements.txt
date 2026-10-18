@@ -1,0 +1,2 @@
+# local 模式（默认）是纯标准库；--mode mcp 需要 mcp 包
+mcp==1.30.0
